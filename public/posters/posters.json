@@ -1,5 +1,117 @@
 [
   {
+    "id": "poster-week15",
+    "title": "가볍고 덧없는",
+    "tag": "WEEK 15 POSTER",
+    "image": "/posters/15.jpeg",
+    "objectFit": "contain",
+    "createdAt": 1781358434101
+  },
+  {
+    "id": "poster-week16",
+    "title": "A book is a...",
+    "tag": "WEEK 16 POSTER",
+    "image": "/posters/16.jpe g",
+    "objectFit": "contain",
+    "createdAt": 1781358434102
+  },
+  {
+    "id": "poster-week13",
+    "title": "SOLITUDE",
+    "tag": "WEEK 13 POSTER",
+    "image": "/posters/13.jpeg",
+    "objectFit": "contain",
+    "createdAt": 1781358434103
+  },
+  {
+    "id": "poster-week12",
+    "title": "익숙한 낯섬",
+    "tag": "WEEK 12 POSTER",
+    "image": "/posters/12.jpeg",
+    "objectFit": "contain",
+    "createdAt": 1781358434104
+  },
+  {
+    "id": "poster-week11",
+    "title": "결",
+    "tag": "WEEK 11 POSTER",
+    "image": "/posters/11.jpeg",
+    "objectFit": "contain",
+    "createdAt": 1781358434104
+  },
+  {
+    "id": "poster-week10",
+    "title": "오피셜히게단디즘",
+    "tag": "WEEK 10 POSTER",
+    "image": "/posters/10.jpeg",
+    "objectFit": "contain",
+    "createdAt": 1781358434104
+  },
+  {
+    "id": "poster-week10-2",
+    "title": "Billie Eilish",
+    "tag": "WEEK 10 POSTER",
+    "image": "/posters/10-2.jpeg",
+    "objectFit": "contain",
+    "createdAt": 1781358434104
+  },
+  {
+    "id": "poster-week08",
+    "title": "볼프강 바인가르트",
+    "tag": "WEEK 8 POSTER",
+    "image": "/posters/8.jpeg",
+    "objectFit": "contain",
+    "createdAt": 1781358434104
+  },
+  {
+    "id": "poster-week06",
+    "title": "LOOK",
+    "tag": "WEEK 06 POSTER",
+    "image": "/posters/6.jpeg",
+    "objectFit": "contain",
+    "createdAt": 1781358434104
+  },
+  {
+    "id": "poster-week05",
+    "title": "sharp",
+    "tag": "WEEK 05 POSTER",
+    "image": "/posters/5.jpeg",
+    "objectFit": "contain",
+    "createdAt": 1781358434104
+  },
+  {
+    "id": "poster-week04",
+    "title": "Stranger Things Theme",
+    "tag": "WEEK 04 POSTER",
+    "image": "/posters/week04_pattern.jpg",
+    "objectFit": "contain",
+    "createdAt": 1781358434104
+  },
+  {
+    "id": "poster-week03",
+    "title": "요동",
+    "tag": "WEEK 03 POSTER",
+    "image": "/posters/week03_book.jpg",
+    "objectFit": "contain",
+    "createdAt": 1781358434104
+  },
+  {
+    "id": "poster-week03-2",
+    "title": "확장",
+    "tag": "WEEK 03 POSTER",
+    "image": "/posters/3-2.jpeg",
+    "objectFit": "contain",
+    "createdAt": 1781358434104
+  },
+  {
+    "id": "poster-week03-3",
+    "title": "중력",
+    "tag": "WEEK 03 POSTER",
+    "image": "/posters/3-3.jpeg",
+    "objectFit": "contain",
+    "createdAt": 1781358434104
+  },
+  {
     "id": "poster-1781358434118",
     "title": "가볍고 덧없는",
     "tag": "WEEK 15 POSTER",
@@ -22,37 +134,5 @@
     "image": "/posters/week02_glass.jpg",
     "objectFit": "contain",
     "createdAt": 1781358434102
-  },
-  {
-    "id": "poster-week03",
-    "title": "BOOK",
-    "tag": "WEEK 03 POSTER",
-    "image": "/posters/week03_book.jpg",
-    "objectFit": "contain",
-    "createdAt": 1781358434103
-  },
-  {
-    "id": "poster-week04",
-    "title": "PATTERN",
-    "tag": "WEEK 04 POSTER",
-    "image": "/posters/week04_pattern.jpg",
-    "objectFit": "contain",
-    "createdAt": 1781358434104
-  },
-  {
-    "id": "poster-week04",
-    "title": "PATTERN",
-    "tag": "WEEK 05 POSTER",
-    "image": "/posters/그디_16주차_최종본.jpg",
-    "objectFit": "contain",
-    "createdAt": 1781358434104
-  },
-  {
-    "id": "poster-week04",
-    "title": "PATTERN",
-    "tag": "WEEK 06 POSTER",
-    "image": "/posters/그디_16주차_주제포스터.jpg",
-    "objectFit": "contain",
-    "createdAt": 1781358434104
   }
 ]
