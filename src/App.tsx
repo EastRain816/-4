@@ -110,15 +110,31 @@ export default function App() {
         }
       })
       .catch(err => {
-        console.warn("Backend unavailable, falling back to offline LocalStorage cache.", err);
-        try {
-          const saved = localStorage.getItem('poster_archive_items');
-          if (saved) {
-            setPosters(JSON.parse(saved));
-          }
-        } catch (e) {
-          setPosters([]);
-        }
+        console.warn("Backend unavailable, trying static file fallback...", err);
+        fetch('/posters/posters.json')
+          .then(res => {
+            if (!res.ok) throw new Error('Static file unreachable');
+            return res.json();
+          })
+          .then(staticData => {
+            if (Array.isArray(staticData)) {
+              setPosters(staticData);
+              try {
+                localStorage.setItem('poster_archive_items', JSON.stringify(staticData));
+              } catch (e) {}
+            }
+          })
+          .catch(staticErr => {
+            console.warn("Static file fallback failed, falling back to offline LocalStorage cache.", staticErr);
+            try {
+              const saved = localStorage.getItem('poster_archive_items');
+              if (saved) {
+                setPosters(JSON.parse(saved));
+              }
+            } catch (e) {
+              setPosters([]);
+            }
+          });
       });
   }, []);
 
