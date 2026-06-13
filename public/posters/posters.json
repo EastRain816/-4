@@ -6,5 +6,37 @@
     "image": "/posters/poster-1781358434118.jpeg",
     "objectFit": "contain",
     "createdAt": 1781358434119
+  },
+  {
+    "id": "poster-week01",
+    "title": "CHAIR",
+    "tag": "WEEK 01 POSTER",
+    "image": "/posters/week01_chair.jpg",
+    "objectFit": "contain",
+    "createdAt": 1781358434101
+  },
+  {
+    "id": "poster-week02",
+    "title": "GLASS",
+    "tag": "WEEK 02 POSTER",
+    "image": "/posters/week02_glass.jpg",
+    "objectFit": "contain",
+    "createdAt": 1781358434102
+  },
+  {
+    "id": "poster-week03",
+    "title": "BOOK",
+    "tag": "WEEK 03 POSTER",
+    "image": "/posters/week03_book.jpg",
+    "objectFit": "contain",
+    "createdAt": 1781358434103
+  },
+  {
+    "id": "poster-week04",
+    "title": "PATTERN",
+    "tag": "WEEK 04 POSTER",
+    "image": "/posters/week04_pattern.jpg",
+    "objectFit": "contain",
+    "createdAt": 1781358434104
   }
 ]
