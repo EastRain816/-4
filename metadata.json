@@ -1,0 +1,6 @@
+{
+  "name": "Poster Archive",
+  "description": "Minimalist digital archive for showcasing and uploading graphic design poster works offline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
