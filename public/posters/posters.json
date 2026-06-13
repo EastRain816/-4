@@ -83,7 +83,7 @@
     "id": "poster-week04",
     "title": "Stranger Things Theme",
     "tag": "WEEK 04 POSTER",
-    "image": "/posters/week04_pattern.jpeg",
+    "image": "/posters/4.jpeg",
     "objectFit": "contain",
     "createdAt": 1781358434104
   },
@@ -91,7 +91,7 @@
     "id": "poster-week03",
     "title": "요동",
     "tag": "WEEK 03 POSTER",
-    "image": "/posters/week03_book.jpeg",
+    "image": "/posters/3.jpeg",
     "objectFit": "contain",
     "createdAt": 1781358434104
   },
