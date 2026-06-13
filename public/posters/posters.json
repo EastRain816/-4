@@ -38,5 +38,21 @@
     "image": "/posters/week04_pattern.jpg",
     "objectFit": "contain",
     "createdAt": 1781358434104
+  },
+  {
+    "id": "poster-week04",
+    "title": "PATTERN",
+    "tag": "WEEK 05 POSTER",
+    "image": "/posters/그디_16주차_최종본.jpg",
+    "objectFit": "contain",
+    "createdAt": 1781358434104
+  },
+  {
+    "id": "poster-week04",
+    "title": "PATTERN",
+    "tag": "WEEK 06 POSTER",
+    "image": "/posters/그디_16주차_주제포스터.jpg",
+    "objectFit": "contain",
+    "createdAt": 1781358434104
   }
 ]
