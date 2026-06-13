@@ -11,7 +11,7 @@
     "id": "poster-week16",
     "title": "A book is a...",
     "tag": "WEEK 16 POSTER",
-    "image": "/posters/16.jpe g",
+    "image": "/posters/16.jpeg",
     "objectFit": "contain",
     "createdAt": 1781358434102
   },
@@ -83,7 +83,7 @@
     "id": "poster-week04",
     "title": "Stranger Things Theme",
     "tag": "WEEK 04 POSTER",
-    "image": "/posters/week04_pattern.jpg",
+    "image": "/posters/week04_pattern.jpeg",
     "objectFit": "contain",
     "createdAt": 1781358434104
   },
@@ -91,7 +91,7 @@
     "id": "poster-week03",
     "title": "요동",
     "tag": "WEEK 03 POSTER",
-    "image": "/posters/week03_book.jpg",
+    "image": "/posters/week03_book.jpeg",
     "objectFit": "contain",
     "createdAt": 1781358434104
   },
