@@ -110,29 +110,5 @@
     "image": "/posters/3-3.jpeg",
     "objectFit": "contain",
     "createdAt": 1781358434104
-  },
-  {
-    "id": "poster-1781358434118",
-    "title": "가볍고 덧없는",
-    "tag": "WEEK 15 POSTER",
-    "image": "/posters/poster-1781358434118.jpeg",
-    "objectFit": "contain",
-    "createdAt": 1781358434119
-  },
-  {
-    "id": "poster-week01",
-    "title": "CHAIR",
-    "tag": "WEEK 01 POSTER",
-    "image": "/posters/week01_chair.jpg",
-    "objectFit": "contain",
-    "createdAt": 1781358434101
-  },
-  {
-    "id": "poster-week02",
-    "title": "GLASS",
-    "tag": "WEEK 02 POSTER",
-    "image": "/posters/week02_glass.jpg",
-    "objectFit": "contain",
-    "createdAt": 1781358434102
   }
 ]
